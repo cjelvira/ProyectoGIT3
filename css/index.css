@@ -14,9 +14,9 @@
 
 .boton {
    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
-   padding: 10px; /*espacio alrededor texto*/
+   padding: 20px; /*espacio alrededor texto*/
    background-color: #2e518b; /*color botón*/
-   color: #000000; /*color texto*/
+   color: #FFFFFF; /*color texto*/
    text-decoration: none; /*decoración texto*/
    text-transform: uppercase; /*capitalización texto*/
    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
